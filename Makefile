@@ -38,7 +38,7 @@ $(NAME): $(OBJ)
 		@echo "$(OKC)|                                   |$(NOC)"
 		@echo "$(OKC)|        Supported fractals:        |$(NOC)"
 		@echo "$(OKC)|     [mandelbrot] [sierpinski]     |$(NOC)"
-		@echo "$(OKC)|          [julia] [cubic]          |$(NOC)"	
+		@echo "$(OKC)|     [poincare] [julia] [cubic]    |$(NOC)"	
 		@echo "$(OKC)|                                   |$(NOC)"
 		@echo "$(OKC)|                                   |$(NOC)"
 		@echo "$(OKC)|___________________________________|$(NOC)"
